@@ -53,12 +53,18 @@ Torrente II
 ```
 
 ### Names with umlauts
-There are 9 names in this category.
+There are 4 names in this category.
 ```
 Hidofäs
 Nöber
 Stählerner Krieger
 Wächter der Hölle
+```
+
+### Names with a dot
+There is 1 name in this category.
+```
+Mr. Kill
 ```
 
 ### Other
