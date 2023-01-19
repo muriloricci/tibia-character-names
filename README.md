@@ -1,6 +1,6 @@
 This repository purpose is to store names from characters in [Tibia](https://www.tibia.com/), a MMORPG game by CipSoft.
 
-There is a total of 750,304 names registered so far.
+There is a total of 750,303 names registered so far.
 
 ## Distribution
 
@@ -39,7 +39,7 @@ Names with 29 characters: 381
 ## Rare names
 
 ### Names with Roman numbers
-There are 9 names in this category.
+There are 17 names in this category.
 ```
 Carl II
 Daso II
@@ -61,7 +61,7 @@ Vampriece Archer II
 ```
 
 ### Names with umlauts
-There are 4 names in this category.
+There are 12 names in this category.
 ```
 Bürgy
 Draufgänger
