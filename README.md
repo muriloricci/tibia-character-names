@@ -109,6 +109,13 @@ M. Tashiro
 Mr. Kill
 ```
 
+### Names with no vowels
+There are 2 names in this category.
+```
+Gwp
+Lhd
+```
+
 ### Other
 ```
 Names with 3 or more spaces: 1,733
