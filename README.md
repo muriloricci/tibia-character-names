@@ -116,6 +116,19 @@ Gwp
 Lhd
 ```
 
+### Names with a capital letter in the middle of a word
+There are 8 names in this category.
+```
+Brian McLeod
+Brin McLonnert
+Byron McAllister
+KnightChrono
+Lady DeWinter
+Lord McMinn
+Magan BlackShield
+Trent McCoy
+```
+
 ### Other
 ```
 Names with 3 or more spaces: 1,733
