@@ -1,45 +1,45 @@
 This repository purpose is to store names from characters in [Tibia](https://www.tibia.com/), a MMORPG game by CipSoft.
 
-There is a total of 1,229,918 names registered so far.
+There is a total of 1,535,506 names registered so far.
 
 ## Distribution
 
 ### Number of characters
 ```
-Names with 2 characters: 80
-Names with 3 characters: 1,524
-Names with 4 characters: 9,656
-Names with 5 characters: 35,542
-Names with 6 characters: 71,479
-Names with 7 characters: 86,925
-Names with 8 characters: 89,125
-Names with 9 characters: 110,315
-Names with 10 characters: 124,149
-Names with 11 characters: 124,253
-Names with 12 characters: 115,507
-Names with 13 characters: 103,928
-Names with 14 characters: 90,546
-Names with 15 characters: 74,181
-Names with 16 characters: 58,353
-Names with 17 characters: 43,577
-Names with 18 characters: 30,732
-Names with 19 characters: 21,024
-Names with 20 characters: 13,991
-Names with 21 characters: 8,777
-Names with 22 characters: 5,525
-Names with 23 characters: 3,628
-Names with 24 characters: 2,435
-Names with 25 characters: 1,544
-Names with 26 characters: 1,071
-Names with 27 characters: 821
-Names with 28 characters: 632
-Names with 29 characters: 599
+Names with 2 characters: 90
+Names with 3 characters: 1787
+Names with 4 characters: 11301
+Names with 5 characters: 42106
+Names with 6 characters: 86045
+Names with 7 characters: 105384
+Names with 8 characters: 109003
+Names with 9 characters: 137605
+Names with 10 characters: 156178
+Names with 11 characters: 156562
+Names with 12 characters: 145897
+Names with 13 characters: 131415
+Names with 14 characters: 114392
+Names with 15 characters: 94000
+Names with 16 characters: 73694
+Names with 17 characters: 54986
+Names with 18 characters: 38988
+Names with 19 characters: 26697
+Names with 20 characters: 17771
+Names with 21 characters: 11097
+Names with 22 characters: 6979
+Names with 23 characters: 4604
+Names with 24 characters: 3070
+Names with 25 characters: 1924
+Names with 26 characters: 1328
+Names with 27 characters: 1057
+Names with 28 characters: 780
+Names with 29 characters: 766
 ```
 
 ## Rare names
 
 ### Names with Roman numbers
-There are 37 names in this category.
+There are 39 names in this category.
 ```
 Alienated Heart I
 Awod Inuyasha II
@@ -70,6 +70,7 @@ Pogar II
 Queen of Light II
 Rika die VI
 Romeo Taneth II
+Sir Athur II
 Stinger II
 Stud Sorcerer II
 Tcheco II
@@ -78,10 +79,11 @@ Tineti II
 Tom-tom II
 Torrente II
 Vampriece Archer II
+White Lion II
 ```
 
 ### Names with umlauts
-There are 17 names in this category.
+There are 18 names in this category.
 ```
 Berno Hjälmerud
 Bürgy
@@ -92,6 +94,7 @@ Hidofäs
 Hälge
 Höfix
 Nöber
+Nöber of Guards
 Sir Pösi
 Skalle pär
 Skorpan Lejonhjärta
@@ -131,7 +134,7 @@ Trent McCoy
 
 ### Other
 ```
-Names with 3 or more spaces: 1,733
-Names with an apostrophe: 4,649
-Names with a dash: 1,511
+Names with 3 or more spaces: 1,897
+Names with an apostrophe: 5,168
+Names with a dash: 1,664
 ```
