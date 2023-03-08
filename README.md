@@ -120,11 +120,12 @@ Lhd
 ```
 
 ### Names with a capital letter in the middle of a word
-There are 8 names in this category.
+There are 9 names in this category.
 ```
 Brian McLeod
 Brin McLonnert
 Byron McAllister
+Craig McFearland
 KnightChrono
 Lady DeWinter
 Lord McMinn
