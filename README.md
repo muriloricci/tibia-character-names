@@ -1,45 +1,45 @@
 This repository purpose is to store names from characters in [Tibia](https://www.tibia.com/), a MMORPG game by CipSoft.
 
-There is a total of 1,535,506 names registered so far.
+There is a total of 1,699,850 names registered so far.
 
 ## Distribution
 
-### Number of characters
+### Number of letters
 ```
-Names with 2 characters: 90
-Names with 3 characters: 1787
-Names with 4 characters: 11301
-Names with 5 characters: 42106
-Names with 6 characters: 86045
-Names with 7 characters: 105384
-Names with 8 characters: 109003
-Names with 9 characters: 137605
-Names with 10 characters: 156178
-Names with 11 characters: 156562
-Names with 12 characters: 145897
-Names with 13 characters: 131415
-Names with 14 characters: 114392
-Names with 15 characters: 94000
-Names with 16 characters: 73694
-Names with 17 characters: 54986
-Names with 18 characters: 38988
-Names with 19 characters: 26697
-Names with 20 characters: 17771
-Names with 21 characters: 11097
-Names with 22 characters: 6979
-Names with 23 characters: 4604
-Names with 24 characters: 3070
-Names with 25 characters: 1924
-Names with 26 characters: 1328
-Names with 27 characters: 1057
-Names with 28 characters: 780
-Names with 29 characters: 766
+2 letters: 99
+3 letters: 1985
+4 letters: 12625
+5 letters: 47010
+6 letters: 95978
+7 letters: 117759
+8 letters: 121381
+9 letters: 151833
+10 letters: 172036
+11 letters: 172020
+12 letters: 160483
+13 letters: 145140
+14 letters: 126216
+15 letters: 103961
+16 letters: 81754
+17 letters: 61029
+18 letters: 43480
+19 letters: 29782
+20 letters: 19762
+21 letters: 12403
+22 letters: 7832
+23 letters: 5145
+24 letters: 3465
+25 letters: 2164
+26 letters: 1503
+27 letters: 1190
+28 letters: 923
+29 letters: 892
 ```
 
 ## Rare names
 
 ### Names with Roman numbers
-There are 39 names in this category.
+There are 43 names in this category.
 ```
 Alienated Heart I
 Awod Inuyasha II
@@ -58,9 +58,12 @@ Gustavo I
 Hagus II
 Hettar II
 Iceman IV
+Iwan II
 King Dragon II
+Lord Of Knights II
 Lord Scott II
 Lulle XVI
+Mati II
 Mayara II
 Michelangelo I
 Mikey I
@@ -71,6 +74,7 @@ Queen of Light II
 Rika die VI
 Romeo Taneth II
 Sir Athur II
+Sombra II
 Stinger II
 Stud Sorcerer II
 Tcheco II
@@ -135,7 +139,39 @@ Trent McCoy
 
 ### Other
 ```
-Names with 3 or more spaces: 1,897
-Names with an apostrophe: 5,168
-Names with a dash: 1,664
+Names with 3 or more spaces: 1,996
+Names with apostrophes: 5,552
+Names with dashes: 1,747
+Names with both apostrophes and dashes: 5
+```
+
+## Popularity
+
+### Most common words
+```
+de: 18649
+of: 18398
+the: 18209
+lord: 12165
+knight: 11501
+on: 11216
+sir: 10891
+do: 10111
+druid: 8644
+king: 8089
+royal: 6798
+da: 6495
+dark: 6181
+mage: 5505
+lady: 5440
+elite: 4547
+elder: 4335
+el: 4335
+paladin: 3879
+don: 3656
+ek: 3613
+rook: 3543
+black: 3331
+archer: 3168
+sorcerer: 2895
 ```
