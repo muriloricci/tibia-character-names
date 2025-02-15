@@ -1,6 +1,6 @@
 This repository purpose is to store names from characters in [Tibia](https://www.tibia.com/), a MMORPG game by CipSoft.
 
-There is a total of 1,857,624 names registered so far.
+There is a total of 1,857,598 names registered so far.
 
 ## Distribution
 
@@ -8,24 +8,24 @@ There is a total of 1,857,624 names registered so far.
 ```
 2 letters: 114
 3 letters: 2262
-4 letters: 14094
+4 letters: 14093
 5 letters: 52231
-6 letters: 104859
-7 letters: 127992
-8 letters: 132101
-9 letters: 165394
-10 letters: 187708
-11 letters: 188018
-12 letters: 175576
-13 letters: 158700
+6 letters: 104858
+7 letters: 127994
+8 letters: 132098
+9 letters: 165389
+10 letters: 187703
+11 letters: 188016
+12 letters: 175574
+13 letters: 158697
 14 letters: 138062
-15 letters: 113740
-16 letters: 89465
-17 letters: 66751
+15 letters: 113739
+16 letters: 89464
+17 letters: 66750
 18 letters: 47550
 19 letters: 32566
-20 letters: 21654
-21 letters: 13566
+20 letters: 21653
+21 letters: 13564
 22 letters: 8575
 23 letters: 5610
 24 letters: 3781
@@ -233,18 +233,21 @@ Lhd
 ```
 
 ### Names with a capital letter in the middle of a word
-There are 10 names in this category.
+There are 13 names in this category.
 ```
 Brian McLeod
 Brin McLonnert
 Byron McAllister
 Craig McFearland
+GhostKing
 KnightChrono
 Lady DeWinter
 Lord McMinn
 Magan BlackShield
+PengYou
 Tank SilverBlade
 Trent McCoy
+WarHell (set to be deleted at March 28, 2025 16:24:14 CET)
 ```
 
 ### Other
