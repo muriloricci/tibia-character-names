@@ -177,7 +177,6 @@ There are 15 names in this category.
 C. Iulius Caesar
 Dr. Omader
 Dr. Robboo
-Elessar, the Elfstone
 M. Tashiro
 Mr. Carda
 Mr. Christian
