@@ -39,7 +39,7 @@ There is a total of 1,857,598 names registered so far.
 ## Rare names
 
 ### Names with Roman numbers
-There are 102 names in this category.
+There are 89 names in this category.
 ```
 Alienated Heart I
 Awod Inuyasha II
@@ -93,19 +93,6 @@ Nad II
 Naysayer II
 Nimfoz II
 Omas II
-Care Bear II
-Dizzy IV
-Doitsu-jin the II
-Fuhido II
-Gomex II
-Gustin II
-Ice Wind II
-King Buzzy II
-Mr Firestorm II
-Naysayer II
-Nimfoz II
-Porkine II
-Tinuse II
 Pogar II
 Porkine II
 Queen of Light II
@@ -146,7 +133,7 @@ Zero C
 ```
 
 ### Names with umlauts
-There are 40 names in this category.
+There are 34 names in this category.
 ```
 Berno Hjälmerud
 Bürgy
@@ -171,12 +158,6 @@ Mäster bäver-bankare
 Näurin
 Nöber
 Nöber of Guards
-Hans der Drachentöter
-Höbi
-Krümelmonster
-Mäster bäver-bankare
-Näurin
-Ölspucker
 Sir Pösi
 Skalle pär
 Skorpan Lejonhjärta
@@ -191,11 +172,12 @@ Wächter der Hölle
 ```
 
 ### Names with a dot
-There are 24 names in this category.
+There are 15 names in this category.
 ```
 C. Iulius Caesar
 Dr. Omader
 Dr. Robboo
+Elessar, the Elfstone
 M. Tashiro
 Mr. Carda
 Mr. Christian
@@ -205,16 +187,6 @@ Mr. Kuervo
 Mr. Lev
 Mr. Ozzy
 Naz. Jujuzinha
-C. Iulius Caesar
-Dr. Omader
-Dr. Robboo
-Mr. Carda
-Mr. Christian
-Mr. Fraser
-Mr. Kuervo
-Mr. Ozzy
-T. Schnapper
-Elessar, the Elfstone
 Sir. Homer
 T. Schnapper
 ```
@@ -254,7 +226,7 @@ WarHell (set to be deleted at March 28, 2025 16:24:14 CET)
 ```
 Names with 3 or more spaces: 2,156
 Names with apostrophes: 5,790
-Names with dashes: 1,907
+Names with dashes: 1,905
 Names with both apostrophes and dashes: 6
 ```
 
@@ -264,14 +236,14 @@ Names with both apostrophes and dashes: 6
 ```
 de: 20359
 of: 20078
-the: 19991
+the: 19989
 lord: 13433
 knight: 12612
 on: 12435
 sir: 12067
 do: 11009
 druid: 9412
-king: 8713
+king: 8712
 royal: 7285
 da: 7105
 dark: 6750
