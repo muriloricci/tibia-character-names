@@ -218,7 +218,7 @@ Magan BlackShield
 PengYou
 Tank SilverBlade
 Trent McCoy
-WarHell (set to be deleted at March 28, 2025 16:24:14 CET)
+WarHell
 ```
 
 ### Other
