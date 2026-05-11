@@ -218,7 +218,7 @@ Magan BlackShield
 PengYou
 Tank SilverBlade
 Trent McCoy
-WarHell
+~~WarHell~~ (renamed to Anlotica)
 ```
 
 ### Other
